@@ -3,6 +3,8 @@
 Achieve god mode with this dedicated client for the [cards agains
 isolation game](https://github.com/dparrish/cards-against-isolation/).
 
+Play the game [here](https://cards-against-isolation.web.app/footbal).
+
 ## Description
 
 The cards against isolation game is an online take on the cards against
